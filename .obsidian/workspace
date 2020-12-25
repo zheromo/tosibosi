@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "50377aeb0f31d271",
+    "type": "split",
+    "children": [
+      {
+        "id": "af804c0b51f1786a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anchor Modelling.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4db880f6aa05d134",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae1572bea6465ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de64cd1c3d9cb52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a16e2e20f9378979",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e70bd7dd1e9a5d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a01528797d195b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bad04ccaf78fdcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anchor Modelling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Apache-Airflow.md",
+    "XWiki.md",
+    "Neo4j.md",
+    "Jena.md",
+    "DRY.md",
+    "CRM.md",
+    "Camunda.md",
+    "Микросервисная архитектура фронта.md",
+    "RethinkDB.md"
+  ]
+}
