@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "af804c0b51f1786a",
+        "id": "ad585f752bf86d14",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anchor Modelling.md",
+            "file": "EventStorming/Инструменты.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anchor Modelling.md",
+                "file": "EventStorming/Инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "ad585f752bf86d14",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Apache-Airflow.md",
-    "XWiki.md",
-    "Neo4j.md",
-    "Jena.md",
-    "DRY.md",
-    "CRM.md",
-    "Camunda.md",
-    "Микросервисная архитектура фронта.md",
-    "RethinkDB.md"
+    "EventStorming/Инструменты.md",
+    "EventStorming/Описание.md",
+    "Real Time Messaging.md",
+    "plantUML.md",
+    "Архитектура/ESB.md",
+    "Архитектура/Consistent Hashing.md",
+    "Архитектура/Список тем.md",
+    "k8n.md",
+    "IOT/Platforms.md",
+    "Untitled 1.md"
   ]
 }
